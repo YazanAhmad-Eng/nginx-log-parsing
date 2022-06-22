@@ -1,0 +1,5 @@
+
+services:
+  bash:
+    build: .
+    command: bash script.sh Access.log all

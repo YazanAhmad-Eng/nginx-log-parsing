@@ -10,3 +10,4 @@ a bash script to extract the following data from the log file:
 4- Print the size of the file in a human readable format
 
 5- Compress the file to multiple compressed files each with size of 20 KB
+
